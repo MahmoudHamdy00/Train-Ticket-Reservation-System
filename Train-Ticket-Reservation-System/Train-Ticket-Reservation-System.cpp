@@ -481,12 +481,12 @@ void exit() {
 	cout << ".\n";
 	cout << setw(41) << ".";
 	clr(11);
-	cout << "           mahmoudhamdy@aun.edu.eg             ";
+	cout << "           mahmoudhamdy@compit.aun.edu.eg             ";
 	clr(4);
 	cout << ".\n";
 	cout << setw(41) << ".";
 	clr(11);
-	cout << "           eng.ma7mod17@gmail.com              ";
+	cout << "           MahmoudH.Morsy@gmail.com              ";
 	clr(4);
 	cout << ".\n";
 	cout << setw(90) << ".                                               .\n";
