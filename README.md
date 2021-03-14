@@ -1,4 +1,4 @@
 # Train-Ticket-Reservation-System
-This is a desktop application that allows travelers to book a train ticket.
+It is a console application that allows travelers to reserve tickets, cancel a reservation, and display available seats
 
 I developed it when I was in my first year at the Faculty of Computers and Information, Assiut University
